@@ -26,7 +26,7 @@ console.log(temperature + 5);
 
 //Exercise 5
 /* 
-3.14 is a decimal number (floating-point numbers).
+3.14 is a decimal number ( floating-point numbers ).
 100 is an integer.
 
 ``` In JavaScript, a number is a data type that represents a numeric value. Numbers can be either integers (whole numbers) or floating-point values (numbers with a decimal point).
@@ -41,6 +41,35 @@ the main difference between a number and an integer in JavaScript is that an int
 
 ^
 |
-This is what i found on Google
+This is what i found on Google ( literally Ctrl+C --> Ctrl+V )
 
 */
+
+//Exercise 6
+console.info('Il mio messaggio'); 
+/*I see no difference in console, but i found on Google who use it
+for see the messages in a different color and because console.log
+is configurable to produce a warning message whenever is used
+( you can't do it on console.info ).
+
+Exist a lot of different console command like:
+console.assert()
+console.clear()
+console.count()
+console.countReset()
+console.debug()
+console.dir()
+console.dirxml()
+console.error()
+console.group()
+console.groupCollapsed()
+console.groupEnd()
+console.table()
+console.time()
+console.timeEnd()
+console.timeLog()
+console.trace()
+console.warn()
+and few more i don't write cuz are not "standard"
+you can find more on MDN documentation.
+*/ 
