@@ -20,6 +20,16 @@ assegnale il valore "Carlo".
 Successivamente, modifica il valore della variabile in "Marco".
 Stampa il nuovo valore in console.
 
+Esercizio 4 (BONUS)
+Dichiara una variabile chiamata temperature e assegnale il valore 22.5. Successivamente, aumenta il suo valore di 5 e stampa il nuovo valore in console.
+
+Esercizio 5: Numeri (BONUS)
+Rispondete in un commento a più righe: Che differenza c'è tra il numero 3.14 e 100 sono diversi? Perchè? Che tipo di dato è uno e che tipo di dato è l'altro?
+
+Esercizio 6: console (BONUS)
+Per scrivere dentro la nostra console utilizziamo la sua funzione .log() ma se scrivessimo console.info('Il mio messaggio') che differenza c'è? Perche?
+Esistono altri metodi da usare con console. ?
+
 
 # ?-Resolution-?
 
